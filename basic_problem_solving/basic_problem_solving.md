@@ -27,3 +27,34 @@ Area of rectangle =  45.0
 
 Perimeter of ractangle =  28.0
 
+#Triangle_angle_and_type.py
+
+output
+
+Enter one angle of Triangle: 55
+
+Enter another angle of Triangle: 55
+
+The Thrid angle of Triangle =  70
+
+The triangle formed is Isosceles Triangle
+
+#2 
+
+Enter one angle of Triangle: 60
+
+Enter another angle of Triangle: 30
+
+The Thrid angle of Triangle =  90
+
+The triangle formed is Right-Angled Triangle
+
+#3
+
+Enter one angle of Triangle: 86
+
+Enter another angle of Triangle: 40
+
+The Thrid angle of Triangle =  54
+
+Neither
