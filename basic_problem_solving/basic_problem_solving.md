@@ -141,7 +141,10 @@ Your name is: Sk. Mohammad Samad Rasool
 
 output
 
-* 
+*
+
 * * * 
+
 * * * * * 
+
 * * * * * * * 
