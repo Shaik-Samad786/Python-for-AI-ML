@@ -58,3 +58,44 @@ Enter another angle of Triangle: 40
 The Thrid angle of Triangle =  54
 
 Neither
+
+#converts_days.py
+
+output
+
+#1
+
+Enter number of days: 21
+
+Years: 0
+
+Months: 0
+
+Weeks: 3
+
+Remaining Days: 0
+
+#2
+
+Enter number of days: 158
+
+Years: 0
+
+Months: 5
+
+Weeks: 1
+
+Remaining Days: 1
+
+#3
+
+Enter number of days: 300
+
+Years: 0
+
+Months: 10
+
+Weeks: 0
+
+Remaining Days: 0
+
