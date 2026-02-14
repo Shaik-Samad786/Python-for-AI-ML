@@ -157,3 +157,12 @@ Enter initial velocity (m/s): 22
 
 Time taken to touch the ground: 4.489795918367347 seconds
 
+#bouncing_ball_distance.py
+
+output
+
+Enter the initial height (meters): 22
+
+Total distance, ball touches ground for the third time: 55.0 meters
+
+#
