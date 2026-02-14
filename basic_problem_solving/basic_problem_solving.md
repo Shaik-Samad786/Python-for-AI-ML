@@ -129,4 +129,11 @@ Area: 78.53981633974483
 
 Circumference: 31.41592653589793
 
-#
+#name_print.py
+
+output
+
+Enter your name: Sk. Mohammad Samad Rasool
+
+Your name is: Sk. Mohammad Samad Rasool
+
