@@ -137,3 +137,11 @@ Enter your name: Sk. Mohammad Samad Rasool
 
 Your name is: Sk. Mohammad Samad Rasool
 
+#stars_print.py
+
+output
+
+* 
+* * * 
+* * * * * 
+* * * * * * * 
