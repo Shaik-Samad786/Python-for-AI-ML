@@ -99,3 +99,23 @@ Weeks: 0
 
 Remaining Days: 0
 
+#
+
+output
+
+Enter marks for Subject 1: 90
+
+Enter marks for Subject 2: 88
+
+Enter marks for Subject 3: 96
+
+Enter marks for Subject 4: 92
+
+Enter marks for Subject 5: 99
+
+Total Marks: 465.0
+
+Average Marks: 93.0
+
+Percentage: 93.0 %
+
