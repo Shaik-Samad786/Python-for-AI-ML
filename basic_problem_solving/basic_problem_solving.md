@@ -148,3 +148,12 @@ output
 * * * * * 
 
 * * * * * * * 
+
+#vertically_thrown_particle.py
+
+output
+
+Enter initial velocity (m/s): 22
+
+Time taken to touch the ground: 4.489795918367347 seconds
+
