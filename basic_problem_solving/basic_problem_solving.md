@@ -119,3 +119,14 @@ Average Marks: 93.0
 
 Percentage: 93.0 %
 
+#circle_prob.py
+
+output
+
+Enter the radius of the circle: 5
+
+Area: 78.53981633974483
+
+Circumference: 31.41592653589793
+
+#
