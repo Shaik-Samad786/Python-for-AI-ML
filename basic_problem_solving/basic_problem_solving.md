@@ -3,7 +3,7 @@ Output of if-else.py
 if condition is true
 end
 
-#Temp_degrees_coversion.py
+# Temp_degrees_coversion.py
 
 output
 
@@ -15,7 +15,7 @@ Enter a celsius value to change into fahrenheit : 100
 
 100.0 ° celsius =  212.0 ° fahrenheit
 
-#Area_perimeter_of_rectangle.py
+# Area_perimeter_of_rectangle.py
 
 output
 
@@ -27,7 +27,7 @@ Area of rectangle =  45.0
 
 Perimeter of ractangle =  28.0
 
-#Triangle_angle_and_type.py
+# Triangle_angle_and_type.py
 
 output
 
@@ -59,7 +59,7 @@ The Thrid angle of Triangle =  54
 
 Neither
 
-#converts_days.py
+# converts_days.py
 
 output
 
@@ -99,7 +99,7 @@ Weeks: 0
 
 Remaining Days: 0
 
-#students_marks_cal.py
+# students_marks_cal.py
 
 output
 
@@ -119,7 +119,7 @@ Average Marks: 93.0
 
 Percentage: 93.0 %
 
-#circle_prob.py
+# circle_prob.py
 
 output
 
@@ -129,7 +129,7 @@ Area: 78.53981633974483
 
 Circumference: 31.41592653589793
 
-#name_print.py
+# name_print.py
 
 output
 
@@ -137,7 +137,7 @@ Enter your name: Sk. Mohammad Samad Rasool
 
 Your name is: Sk. Mohammad Samad Rasool
 
-#stars_print.py
+# stars_print.py
 
 output
 
@@ -149,7 +149,7 @@ output
 
 * * * * * * * 
 
-#vertically_thrown_particle.py
+# vertically_thrown_particle.py
 
 output
 
@@ -157,7 +157,7 @@ Enter initial velocity (m/s): 22
 
 Time taken to touch the ground: 4.489795918367347 seconds
 
-#bouncing_ball_distance.py
+# bouncing_ball_distance.py
 
 output
 
