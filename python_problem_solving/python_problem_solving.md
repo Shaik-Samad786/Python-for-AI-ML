@@ -29,3 +29,11 @@ Enter another number: 4
 Value of X:  15
 
 # conditional_expression_conversion(b).py
+
+output
+
+Enter marks: 55
+
+fail
+
+# 
