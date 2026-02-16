@@ -36,4 +36,12 @@ Enter marks: 55
 
 fail
 
+# grade_calculation.py
+
+output
+
+Enter marks: 65
+
+Grade: D
+
 # 
