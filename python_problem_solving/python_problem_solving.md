@@ -44,4 +44,14 @@ Enter marks: 65
 
 Grade: D
 
+# yes\no_selection.py
+
+output
+
+Enter y or Y for Yes // Enter n or N for No: N
+
+Enter choice:  N
+
+Output: No
+
 # 
