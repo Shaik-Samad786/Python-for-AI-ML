@@ -39,3 +39,18 @@ print(type(ar[0][1]))
 <class 'list'>
 <class 'int'>
 <class 'int'>
+
+
+A = [[2,4],[1,0]]
+for i in range(len(A)):
+    for j in range(len(A[i])):
+        A[i][j] = A[i][j]*3
+        
+for a in A:
+    print(a)
+
+
+# output
+
+[6, 12]
+[3, 0]
