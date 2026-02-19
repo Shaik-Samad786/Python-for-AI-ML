@@ -21,3 +21,21 @@ print(type(a[0][0]))
 1
 2
 <class 'int'>
+
+
+a = [1,2,3,4,5]
+ar = [[1,2],[2,3]]
+print(ar)
+print(type(ar))
+print(type(ar[0]))
+print(type(ar[0][0]))
+print(type(ar[0][1]))
+
+
+# output
+
+[[1, 2], [2, 3]]
+<class 'list'>
+<class 'list'>
+<class 'int'>
+<class 'int'>
