@@ -1,11 +1,17 @@
 # scalar_addition
 
-#output
+output
 
 [[6, 8], [10, 12]]
 
 # scalar_substraction
 
-#output
+output
 
 [[-4, -4], [-4, -4]]
+
+# scalar_multi
+
+output
+
+[[5, 12], [21, 32]]
