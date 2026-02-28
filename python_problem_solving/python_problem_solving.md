@@ -54,4 +54,14 @@ Enter choice:  N
 
 Output: No
 
+# Factors_of_a_Number.py
+
+output
+
+Enter a number to calculate it's Factors: 10
+
+Factors of 10 are: 
+
+1 2 5 10 
+
 # 
